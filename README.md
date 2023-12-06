@@ -1,1 +1,3 @@
-#Learing git it is awesome
+# Learing git it is awesome
+
+### **First day learning history**
