@@ -15,3 +15,4 @@ After all I did these action via command line
 6. git remote add origin https://github.com/AbidHasan007/gitlearning.git
 7. git push -u origin main
 Then I created a new html file named as index.html in my local envoirment and uploaded it again at github using three command add . , commit and push
+then i edited readme.md file at github then I pull it using git pull command
