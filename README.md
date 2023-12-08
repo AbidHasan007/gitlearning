@@ -16,3 +16,7 @@ After all I did these action via command line
 7. git push -u origin main
 Then I created a new html file named as index.html in my local envoirment and uploaded it again at github using three command add . , commit and push
 then i edited readme.md file at github then I pull it using git pull command
+
+**08/12/2023**
+Today I learned how to create a new branch at git hub using command
+**git branch -M "test"** then I pushed current changes to github but I faced fatal error because of my main branch was changed to test branch so I fixed it using the **git push origin HEAd**command Finally It created a new branch at my github repo then I created a pull request to merge my test branch to main branch
